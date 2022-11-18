@@ -1,6 +1,7 @@
 def print_hi(name):
     print('My first git program')
     print('And I change it every day')
+    print('hehe')
 
 
 if __name__ == '__main__':
